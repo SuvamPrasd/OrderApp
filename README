@@ -1,0 +1,1 @@
+OrderApp is a simple order application for ordering the number of cup of coffees with one or two topping according to the customer choice and when the customer click the order button , it will redirect to the email app to directly place the order by sending an email to the coffee store email address.
